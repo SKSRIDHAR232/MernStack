@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ToDo List project for learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "manoj",
+    "start":"nodemon server.js"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "mongosh": "^2.3.0"
+  }
+}
